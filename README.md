@@ -1,5 +1,5 @@
 
-# TTS2LipSync
+# tts_ci
 
 This program combines TTS (Text-to-Speech) and lip-syncing videos using the open-source Wav2Lip project from [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip). The TTS functionality utilizes OpenAI's API, so you need to use your OpenAI API key.
 
