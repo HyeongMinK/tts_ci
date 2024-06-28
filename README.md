@@ -14,8 +14,8 @@ This program combines TTS (Text-to-Speech) and lip-syncing videos using the open
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/HyeongMinK/TTS2LipSync.git
-    cd TTS2LipSync
+    git clone https://github.com/HyeongMinK/tts_ci.git
+    cd tts_ci
     ```
 
 2. **Install required libraries**:
